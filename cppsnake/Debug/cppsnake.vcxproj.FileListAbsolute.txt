@@ -1,0 +1,2 @@
+E:\portable\my\dev\cppsnake\cppsnake\Debug\cppsnake.exe
+E:\portable\my\dev\cppsnake\cppsnake\Debug\cppsnake.pdb
