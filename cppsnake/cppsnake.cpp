@@ -1,6 +1,6 @@
-﻿#include <iostream> // cout, endl
-#include <conio.h> // getch, kbhit
-#include <windows.h> // Sleep
+﻿#include <iostream>
+#include <conio.h>
+#include <windows.h>
 
 using namespace std;
 
@@ -9,7 +9,7 @@ const int width = 20;
 const int height = 20;
 int x, y, fruitX, fruitY, score;
 int tailX[100], tailY[100];
-int nTail;
+int nTail; // tail length
 enum eDirecton { STOP = 0, LEFT, RIGHT, UP, DOWN };
 eDirecton dir;
 
